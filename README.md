@@ -13,25 +13,27 @@ Tavoitteemme oli luoda koneoppimismalleja, jotka pystyisi mahdollisimman hyvin e
 
 Data oli csv-muodossa ja se sisälsi 3 miljoonaa riviä ja 66 saraketta.
 
-## Projektin kuusi vaihetta
+## Projektin vaiheet
+
   1. Business Understanding
-      - Alan ymmärtäminen
-      - Tavoitteiden määrittely
+      - Alan ymmärtäminen.
+      - Tavoitteiden määrittely.
+      - Tämän vaiheen teimme yhdessä ryhmänä.
   2. Data Understanding
-      - Käytössä olevaan dataan tutustuminen
-      - Datan laadun arviointi
+      - Käytössä olevaan dataan tutustuminen.
+      - Datan laadun arviointi.
+      - Osuuteni oli Data quality and reporting -osuus.
   3. Data Preparation
-      - Datan siivous ja jäsentely
+      - Datan siivous ja jäsentely.
+      - Osuuteni oli kategoristen sarakkeiden muuntaminen sekä uuden dataframen ja csv-tiedoston luonti mallinnusvaihetta varten.
   4. Modelling
-      - Käytettävien koneoppimismallien valinta
-      - Mallien toteutus ja arviointi
-      - Tulosten visualisointi
+      - Käytettävien koneoppimismallien valinta.
+      - Mallien toteutus ja arviointi.
+      - Tulosten visualisointi.
+      - Tässä vaiheessa kaikki ryhmän jäsenet tekivät omat mallinsa eri koneoppimismenetelmillä. Minä valitsin Random Forestin.
   5. Evaluation
-      - Mallien arviointi ja vertailu toisiinsa
+      - Mallien arviointi ja vertailu toisiinsa.
+      - 
   6. Deployment
-      - Projektin tulosten käyttöönotto (vain suunnitelma)
-
-# Projektin kulku
-
-Projektin toteutus jaettiin kahteen osaan, joista ensimmäisessä oli vaiheet 1-3 ja toisessa vaiheet 4-6. Vaiheet 1 ja 2 ...
-
+      - Projektin tulosten käyttöönotto (vain suunnitelma).
+      - Tämän vaiheen teimme yhdessä ryhmänä.
