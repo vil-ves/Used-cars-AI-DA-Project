@@ -11,7 +11,7 @@ Työ toteutettiin CRISP-DM mallia noudattaen.
 
 Tavoitteemme oli luoda koneoppimismalli, joka pystyisi ennustamaan niitä ominaisuuksia, jotka vaikuttavat eniten käytettyjen autojen myyntiin.
 
-Data oli csv-muodossa ja määrällisesti sitä oli 3 miljoonaa riviä ja 66 saraketta.
+Data oli csv-muodossa ja se sisälsi 3 miljoonaa riviä ja 66 saraketta.
 
 ### Projektin kuusi vaihetta
   1. Business Understanding
