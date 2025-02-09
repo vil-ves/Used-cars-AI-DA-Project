@@ -3,7 +3,15 @@
 
 ## Taustatietoa
 
-Projekti toteutettiin osana JAMKin Data-analytiikka ja tekoäly -kurssimoduulia. Työ tehtiin ryhmätyönä ja ryhmässämme oli neljä jäsentä. Työ toteutettiin CRISP-DM mallia noudattaen.
+Projekti toteutettiin osana JAMKin Data-analytiikka ja tekoäly -kurssimoduulia. Työ tehtiin ryhmätyönä ja ryhmässämme oli neljä jäsentä.
+
+Työ toteutettiin CRISP-DM mallia noudattaen.
+
+## Tavoitteet
+
+Tavoitteemme oli luoda koneoppimismalli, joka pystyisi ennustamaan niitä ominaisuuksia, jotka vaikuttavat eniten käytettyjen autojen myyntiin.
+
+Data oli csv-muodossa ja määrällisesti sitä oli 3 miljoonaa riviä ja 66 saraketta.
 
 ### Projektin kuusi vaihetta
   1. Business Understanding
