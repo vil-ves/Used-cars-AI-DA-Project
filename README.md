@@ -11,7 +11,7 @@ Data oli csv-muodossa ja se sisälsi 3 miljoonaa riviä ja 66 saraketta.
 
 
 ## Projektin vaiheet
-  1. Business Understanding
+  1. Business Understanding [Business Understanding](docs/P1_business_understanding.md)
       - Alan ymmärtäminen.
       - Tavoitteiden määrittely.
       - Tämän vaiheen teimme yhdessä ryhmänä.
