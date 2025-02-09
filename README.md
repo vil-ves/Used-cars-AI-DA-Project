@@ -7,7 +7,7 @@ Projekti toteutettiin osana JAMKin Data-analytiikka ja tekoäly -kurssimoduulia.
 
 Projektissa oli kuusi vaihetta
   1. Business Understanding
-    -- asd
+    - asd
   3. Data Understanding
   4. Data Preparation
   5. Modelling
