@@ -13,7 +13,7 @@ Tavoitteemme oli luoda koneoppimismalli, joka pystyisi ennustamaan niitä ominai
 
 Data oli csv-muodossa ja se sisälsi 3 miljoonaa riviä ja 66 saraketta.
 
-### Projektin kuusi vaihetta
+## Projektin kuusi vaihetta
   1. Business Understanding
       - Alan ymmärtäminen
       - Tavoitteiden määrittely
