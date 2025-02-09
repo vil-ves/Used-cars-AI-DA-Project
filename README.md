@@ -6,7 +6,7 @@
 Projekti toteutettiin osana JAMKin Data-analytiikka ja tekoäly -kurssimoduulia. 
 Työ tehtiin ryhmätyönä ja ryhmässämme oli neljä jäsentä.
 Työ toteutettiin CRISP-DM mallia noudattaen.
-Tavoitteemme oli luoda koneoppimismalleja, jotka pystyisivät mahdollisimman hyvin ennustamaan niitä ominaisuuksia, jotka vaikuttavat eniten käytettyjen autojen myyntiin. Mallien luomisen jälkeen malleja arvioitiin ja vertailtiin keskenään, minkä jälkeen valitsimme parhaan mallin jatkoa varten.
+Tavoitteemme oli luoda koneoppimismalleja, jotka pystyisivät mahdollisimman hyvin ennustamaan niitä ominaisuuksia, jotka vaikuttavat eniten käytettyjen autojen myyntihintaan. Mallien luomisen jälkeen malleja arvioitiin ja vertailtiin keskenään, minkä jälkeen valitsimme parhaan mallin jatkoa varten.
 Data oli csv-muodossa ja se sisälsi 3 miljoonaa riviä ja 66 saraketta.
 
 
